@@ -9,7 +9,7 @@ enum class NearbyCategoryFilterChipView(
 ) {
     ALIMENTACAO(description = "Alimentação", icon = R.drawable.ic_tools_kitchen_2),
     COMPRAS(description = "Compras", icon = R.drawable.ic_shopping_bag),
-    HOSPEDAR(description = "Hospedar", icon = R.drawable.ic_bed),
+    HOSPEDAGEM(description = "Hospedagem", icon = R.drawable.ic_bed),
     SUPERMERCADO(description = "Supermercado", icon = R.drawable.ic_shopping_cart),
     CINEMA(description = "Cinema", icon = R.drawable.ic_movie),
     FAMACIA(description = "Farmácia", icon = R.drawable.ic_first_aid_kit),
