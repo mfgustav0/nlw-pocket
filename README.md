@@ -18,7 +18,7 @@
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
   <img src="https://raw.githubusercontent.com/mfgustav0/nlw-pocket/refs/heads/main/screenshot/splash.png" alt="Tela de Splash" width="220px" />
   <img src="https://raw.githubusercontent.com/mfgustav0/nlw-pocket/refs/heads/main/screenshot/home.png" alt="Tela Principal" width="220px" />
-  <img src="https://raw.githubusercontent.com/mfgustav0/nlw-pocket/refs/heads/main/screenshot/details.jpg" alt="Detalhes do Cupom" width="220px" />
+  <img src="https://raw.githubusercontent.com/mfgustav0/nlw-pocket/refs/heads/main/screenshot/details.png" alt="Detalhes do Cupom" width="220px" />
 </div>  
 
 ---
