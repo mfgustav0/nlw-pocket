@@ -52,8 +52,8 @@ fun MarketDetailsScreen(
         AsyncImage(
             modifier = Modifier
                 .fillMaxWidth()
-                .fillMaxWidth(0.3f),
-            contentDescription = "Image do Local",
+                .fillMaxHeight(0.3f),
+            contentDescription = "Imagem do Local",
             contentScale = ContentScale.Crop,
             model = market.cover
         )
